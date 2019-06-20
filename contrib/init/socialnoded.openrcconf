@@ -1,0 +1,26 @@
+# /etc/conf.d/socialnoded: config file for /etc/init.d/socialnoded
+
+# Config file location
+#BITCOIND_CONFIGFILE="/etc/socialnode/socialnode.conf"
+
+# What directory to write pidfile to?  (created and owned by $BITCOIND_USER)
+#BITCOIND_PIDDIR="/var/run/socialnoded"
+
+# What filename to give the pidfile
+#BITCOIND_PIDFILE="${BITCOIND_PIDDIR}/socialnoded.pid"
+
+# Where to write socialnoded data (be mindful that the blockchain is large)
+#BITCOIND_DATADIR="/var/lib/socialnoded"
+
+# User and group to own socialnoded process
+#BITCOIND_USER="socialnode"
+#BITCOIND_GROUP="socialnode"
+
+# Path to socialnoded executable
+#BITCOIND_BIN="/usr/bin/socialnoded"
+
+# Nice value to run socialnoded under
+#BITCOIND_NICE=0
+
+# Additional options (avoid -conf and -datadir, use flags above)
+BITCOIND_OPTS=""

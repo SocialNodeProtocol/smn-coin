@@ -1,0 +1,12 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=SocialNode
+Comment=SocialNode P2P Cryptocurrency
+Comment[fr]=SocialNode, monnaie virtuelle cryptographique pair à pair
+Comment[tr]=SocialNode, eşten eşe kriptografik sanal para birimi
+Exec=socialnode-qt %u
+Terminal=false
+Type=Application
+Icon=socialnode128
+MimeType=x-scheme-handler/socialnode;
+Categories=Office;Finance;
