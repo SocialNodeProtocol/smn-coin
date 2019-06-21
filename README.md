@@ -4,6 +4,7 @@ Social node is a Blockchain based protocol providing a decentralized social netw
 
 ![](http://www.smnode.net/images/jasmine/graph-jasmine-a.png)
 
+
 ###Coin Details
 
 | Token Symbol              | SMN                  |
